@@ -1,0 +1,334 @@
+body {
+  color: #40514E;
+  margin: 0;
+
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+h1  {
+
+  margin:50px  auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color:#66BFBF;
+
+  /*line-height: 2;*/
+
+}
+h2{
+  font-family: 'Montserrat', aans-serif;
+  font-size:2.5rem;
+  color:#66BFBF;
+  font-weight: normal;
+  font-size: 50px;
+  font-style: oblique;
+  text-decoration: underline;
+}
+h3{
+  font-family: 'Montserrat', aans-serif;
+  color: #11999E;
+}
+a {
+  color: #11999E;
+}
+
+hr{
+  border-style: none none dotted none;
+  border-width: 10px;
+  border-color: #FFDEAD;
+  width:10%;
+  margin-bottom: 20px;
+}
+
+
+
+.page{
+  background-color: #EAF6F6;
+  padding: 10px;
+  padding-top:100px;
+
+}
+
+.topContainer {
+  border: 0;
+  margin: 0;
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+  margin-bottom: 30px;
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.bottom-cloud{
+  position:absolute;
+  left:300px;
+  bottom:300px;
+
+}
+.top-cloud{
+  position: absolute;
+  right:300px;
+  top:50px;
+}
+
+.vrsec{
+  position: absolute;
+  width:80px;
+  height:120px;
+  left:650px;
+  top:20px;
+}
+
+
+
+.odd-image{
+  heigth:200px;
+  width:150px;
+  float:left;
+  /* padding-right: 30px;  */
+  margin-right: 40px;
+}
+.even-image{
+  heigth:200px;
+  width:150px;
+  float:right;
+  margin-left: 40px;
+  /* margin-right: 30px; */
+}
+
+.vrsec-crown{
+  height: 200px;
+  width:150px;
+position: relative;
+top:-575px;
+left:325px;
+
+}
+
+.smart-gif{
+  right:50px;
+  top:120px;
+   height: 400px;
+  width:300px;
+  position: absolute;
+}
+.right-arrow-gif{
+  left:30px;
+  top:200px;
+  height: 300px;
+  width:200px;
+  position: fixed;
+
+}
+
+
+.gif-dance{
+  left:30px;
+  top:200px;
+  height: 300px;
+  width:200px;
+  position: fixed;
+}
+.breat{
+  height: 300px;
+  width:200px;
+  right:40px;
+  top:100px;
+  position: fixed;
+}
+.stay-chill{
+
+  top:200px;
+  width:190px;
+  right:50px;
+  top:400px;
+  position: fixed;
+}
+
+.students-row {
+  width:50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 1;
+}
+
+.side-hed{
+  color:#66BFBF;
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  word-spacing: 10px;
+}
+
+.hover_I3_img {display:none;}
+.hover_61_img {display:none;}
+.hover_62_img {display:none;}
+.hover_63_img {display:none;}
+.hover_64_img {display:none;}
+.hover_65_img {display:none;}
+.hover_66_img {display:none;}
+.hover_67_img {display:none;}
+.hover_68_img {display:none;}
+.hover_70_img {display:none;}
+.hover_71_img {display:none;}
+.hover_72_img {display:none;}
+.hover_73_img {display:none;}
+.hover_74_img {display:none;}
+.hover_75_img {display:none;}
+.hover_77_img {display:none;}
+.hover_78_img {display:none;}
+.hover_79_img {display:none;}
+.hover_80_img {display:none;}
+.hover_81_img {display:none;}
+.hover_82_img {display:none;}
+.hover_83_img {display:none;}
+.hover_84_img {display:none;}
+.hover_85_img {display:none;}
+.hover_86_img {display:none;}
+.hover_87_img {display:none;}
+.hover_88_img {display:none;}
+.hover_89_img {display:none;}
+.hover_90_img {display:none;}
+.hover_91_img {display:none;}
+.hover_92_img {display:none;}
+.hover_93_img {display:none;}
+.hover_94_img {display:none;}
+.hover_95_img {display:none;}
+.hover_96_img {display:none;}
+.hover_97_img {display:none;}
+.hover_98_img {display:none;}
+.hover_99_img {display:none;}
+.hover_A0_img {display:none;}
+.hover_A1_img {display:none;}
+.hover_A2_img {display:none;}
+.hover_A3_img {display:none;}
+.hover_A4_img {display:none;}
+.hover_A5_img {display:none;}
+.hover_A7_img {display:none;}
+.hover_A8_img {display:none;}
+.hover_A9_img {display:none;}
+.hover_B0_img {display:none;}
+.hover_B1_img {display:none;}
+.hover_B2_img {display:none;}
+.hover_B3_img {display:none;}
+.hover_B4_img {display:none;}
+.hover_B5_img {display:none;}
+.hover_B6_img {display:none;}
+.hover_B7_img {display:none;}
+.hover_B8_img {display:none;}
+.hover_B9_img {display:none;}
+.hover_C0_img {display:none;}
+.hover_13_img {display:none;}
+.hover_14_img {display:none;}
+.hover_15_img {display:none;}
+.hover_16_img {display:none;}
+.hover_17_img {display:none;}
+.hover_18_img {display:none;}
+.hover_19_img {display:none;}
+.hover_20_img {display:none;}
+.hover_21_img {display:none;}
+.hover_22_img {display:none;}
+.hover_23_img {display:none;}
+.hover_24_img {display:none;}
+
+
+
+
+
+
+/*
+<hr>
+<div class="students-row">
+  <img class="odd-image" src="images/ECE-B/.jpg" alt="">
+  <p><span class="side-hed">NAME:</span> </p>
+  <p><span class="side-hed">Reg-no:</span> </p>
+  <p><span class="side-hed">Email:</span> </p>
+  <p><span class="side-hed">Address:</span> </p>
+</div>
+
+<hr>
+
+<div class="students-row">
+  <img class="even-image" src="images/ECE-B/.jpg" alt="">
+  <p><span class="side-hed">NAME:</span> </p>
+  <p><span class="side-hed">Reg-no:</span> </p>
+  <p><span class="side-hed">Email:</span> </p>
+  <p><span class="side-hed">Address:</span> </p>
+</div>
+*/
+
+
+
+.card-right {
+        width: 150px;
+        height: 200px;
+        position: relative;
+
+        float:right;
+        display: inline-block;
+
+        /* margin-left: 40px; */
+    }
+    .card-right .img-top {
+        display: none;
+        position: absolute;
+        top: 0;
+        left: 0;
+        z-index: 99;
+        background-color: #66BFBF;
+    }
+
+    .card-right:hover .img-top {
+        display: inline;
+    }
+
+
+
+    .card-left {
+            width: 150px;
+            height: 200px;
+            position: relative;
+
+            float:left;
+            display: inline-block;
+
+             margin-right: 40px;
+        }
+        .card-left .img-top {
+            display: none;
+            position: absolute;
+            margin-left: auto;
+            top: 0;
+            left: 0;
+            z-index: 99;
+        }
+        .card-left:hover .img-top {
+            display: inline;
+        }
+
+        .none{
+          display: none;
+        }
+/*
+<div class="students-row">
+  <div class="card-right">
+    <img class="even-image" src="images/ECE-B/178W5A0424.jpg" alt="V. Teja Sai">
+
+  </div>
+  <div class="card-left">
+  </div>
+
+  <p><span class="side-hed">NAME:</span> V. Teja Sai</p>
+  <p><span class="side-hed">Reg-no:</span> 178W5A0424</p>
+  <p><span class="side-hed">Email:</span> tejasaivanapalli@gmail.com</p>
+  <p><span class="side-hed">Address:</span> C1/13,FF-3, Vombay Colony,Ajith singh nagar, Vijayawada- 520015.</p>
+
+</div>
+*/
