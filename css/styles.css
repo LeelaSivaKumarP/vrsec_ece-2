@@ -128,17 +128,18 @@ left:325px;
 
 
 .gif-dance{
-  left:30px;
-  top:200px;
+
   height: 300px;
   width:200px;
   position: fixed;
+  left:30px;
+  top:auto;
 }
 .breat{
   height: 300px;
   width:200px;
   right:40px;
-  top:100px;
+  top:auto;
   position: fixed;
 }
 .stay-chill{
