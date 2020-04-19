@@ -74,6 +74,10 @@ hr{
   right:300px;
   top:50px;
 }
+.mountain{
+  position:relative;
+  right:100px;
+}
 
 .vrsec{
   position: relative;
